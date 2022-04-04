@@ -1,3 +1,8 @@
+/* Logical Operators */
+/* APCS 2017-10 Problem1 */
+/* With only 1 column, the input is consisted by 3 seperate intergers, a, b, and c. The number c represent the 
+logical relationship between a and b. Figure out the logical operators that can connect these numbers. */
+
 #include<stdio.h>
 #include<stdlib.h>
 
